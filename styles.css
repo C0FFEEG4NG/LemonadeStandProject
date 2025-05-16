@@ -6,7 +6,7 @@
 body {
   font-family: 'Chewy', cursive;
   background: #1a1a1a;
-  color: #333;
+  color: #fff;
   line-height: 1.6;
 }
 .container {
@@ -16,7 +16,7 @@ body {
 }
 header {
   background: #1a1a1a;
-  color: #333;
+  color: #fff;
   padding: 1rem 0;
   text-align: center;
 }
@@ -30,7 +30,7 @@ nav ul {
   gap: 20px;
 }
 nav ul li a {
-  color: #333;
+  color: #fff;
   text-decoration: none;
   font-weight: bold;
 }
